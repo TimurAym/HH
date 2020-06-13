@@ -1,0 +1,9 @@
+C:\Users\timur\source\repos\lib_for_hh\lib_for_hh\bin\Debug\netstandard2.0\lib_for_hh.deps.json
+C:\Users\timur\source\repos\lib_for_hh\lib_for_hh\bin\Debug\netstandard2.0\lib_for_hh.dll
+C:\Users\timur\source\repos\lib_for_hh\lib_for_hh\bin\Debug\netstandard2.0\lib_for_hh.pdb
+C:\Users\timur\source\repos\lib_for_hh\lib_for_hh\obj\Debug\netstandard2.0\lib_for_hh.csprojAssemblyReference.cache
+C:\Users\timur\source\repos\lib_for_hh\lib_for_hh\obj\Debug\netstandard2.0\lib_for_hh.AssemblyInfoInputs.cache
+C:\Users\timur\source\repos\lib_for_hh\lib_for_hh\obj\Debug\netstandard2.0\lib_for_hh.AssemblyInfo.cs
+C:\Users\timur\source\repos\lib_for_hh\lib_for_hh\obj\Debug\netstandard2.0\lib_for_hh.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\lib_for_hh\lib_for_hh\obj\Debug\netstandard2.0\lib_for_hh.dll
+C:\Users\timur\source\repos\lib_for_hh\lib_for_hh\obj\Debug\netstandard2.0\lib_for_hh.pdb
